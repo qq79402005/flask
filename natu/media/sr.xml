@@ -1,0 +1,24 @@
+<courses>
+    <course id="201611062111" name="Learning vocabulary via picture">
+        <chapter id="201611062113" title="Learning vocabulary via picture">
+            <lesson id="201611062114" title="0-99" type="video" url="video/lvvp/0-99.mp4" />
+            <lesson id="201611062115" title="0-99" type="video" url="video/lvvp/100-199.mp4" />
+            <lesson id="201611062116" title="0-99" type="video" url="video/lvvp/200-299.mp4" />
+            <lesson id="201611062117" title="0-99" type="video" url="video/lvvp/300-399.mp4" />
+            <lesson id="201611062118" title="0-99" type="video" url="video/lvvp/400-499.mp4" />
+            <lesson id="201611062119" title="0-99" type="video" url="video/lvvp/500-599.mp4" />
+            <lesson id="201611062120" title="0-99" type="video" url="video/lvvp/600-699.mp4" />
+            <lesson id="201611062121" title="0-99" type="video" url="video/lvvp/700-799.mp4" />
+            <lesson id="201611062122" title="0-99" type="video" url="video/lvvp/800-899.mp4" />
+            <lesson id="201611062123" title="0-99" type="video" url="video/lvvp/900-999.mp4" />
+            <lesson id="201611062124" title="0-99" type="video" url="video/lvvp/1000-1099.mp4" />
+            <lesson id="201611062125" title="0-99" type="video" url="video/lvvp/1100-1199.mp4" />
+            <lesson id="201611062126" title="0-99" type="video" url="video/lvvp/1200-99.12mp4" />
+            <lesson id="201611062127" title="0-99" type="video" url="video/lvvp/1300-99.13mp4" />
+        </chapter>
+    </course>
+    <course>
+        <chapter>
+        </chapter>
+    </course>
+</courses>

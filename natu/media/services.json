@@ -1,0 +1,10 @@
+{
+	"services": 
+	[
+		{
+			"name":"natu",
+			"url" : "www.albertlab.cn:8082",
+			"version": 1
+ 		}
+	]
+}
