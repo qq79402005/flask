@@ -17,7 +17,7 @@
             <lesson id="201611062127" title="0-99" type="video" url="video/lvvp/1300-99.13mp4" />
         </chapter>
     </course>
-    <course>
+    <course id="201611161116" name="Listen english story">
         <chapter>
         </chapter>
     </course>
